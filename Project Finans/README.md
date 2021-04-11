@@ -3,7 +3,8 @@
 ⚠️this link leads to a brief presentation of the project developed
 
 
-https://user-images.githubusercontent.com/78617974/114253984-44dc8400-9983-11eb-97c9-e97d1eb8557f.mp4
+![2021-04-09 22-24-42](https://user-images.githubusercontent.com/78617974/114290002-8c7e1100-9a52-11eb-9e57-d39173bb5e42.gif)
+
 
 
 - technologies used:
