@@ -72,6 +72,10 @@ html,body, #home {
     color: black;
 }
 
+.carousel-control-next, .carousel-control-prev{
+    width: 5%;
+}
+
 /* Estrutura Conteudos */
 
 #servicos {
